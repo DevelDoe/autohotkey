@@ -1,0 +1,59 @@
+# Node modules
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Coverage directory used by tools like istanbul
+coverage/
+*.lcov
+
+# Compiled binary addons
+build/Release
+
+# Output of 'npm pack'
+*.tgz
+
+# Yarn Integrity file
+.yarn-integrity
+
+# dotenv environment variable files
+.env*
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# npm cache
+.npm/
+
+# Optional eslint cache
+.eslintcache
+
+# VS Code settings
+.vscode/
+
+# SvelteKit build output
+.svelte-kit/
+
+# Build output directories for various frameworks
+.next/
+.nuxt/
+dist/
+
+# Git related files
+*.git
+*.gitattributes
+*.gitignore
+
+# Other files
+.DS_Store
+Thumbs.db

@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "chokidar": "^4.0.1",
+    "ignore": "^6.0.2"
+  }
+}
